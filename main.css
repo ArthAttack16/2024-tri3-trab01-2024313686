@@ -1,0 +1,43 @@
+.logo-ifc {
+    height: 200px;
+}
+
+.banner-ifc {
+    height: 200px
+}
+
+.polygon {
+    background-color:green;
+    height: 50px;
+    width: 99vw;
+    clip-path: polygon(0 0, 100% 0, 100% 100%);
+}
+
+.polygon2 {
+    background-color: rgb(0, 107, 0);
+    width: 90vw;
+	height: 4vh;
+	clip-path: polygon(0 0, 100% 0, 100% 100%);
+	transform: skewY(2.3deg) translateY(-2.2vh);
+	top: 10px;
+}
+
+
+.titulo {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold; 
+}
+
+.sub {
+    text-align: center;
+}
+
+.topico {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.texto {
+    font-size: 20px;
+}
